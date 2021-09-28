@@ -11,7 +11,7 @@ const openPopupJaws = () => {
     const content = (
         <>
         <img className="portfolio-image-popupbox" src={Jaws} alt="" />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>In my final design project for SCU, Jack Schoen and I investigate the idea of lightweight, plug-and-play DDoS detection and mitigation system based on Raspberry Pi.</p>
         <b>Read the Paper: </b>
         <a className="hyper-link" onClick={() => window.open("https://scholarcommons.scu.edu/idp_senior/72/")}>SCU Library</a>
         </>
@@ -40,7 +40,7 @@ const openPopupFr = () => {
     const content = (
         <>
         <img className="portfolio-image-popupbox" src={Fr} alt="" />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>Nothing crazy going on here. I thought it would be cool to make a computer vision based door lock for my house. These are the test projects.</p>
         <b>GitHub: </b>
         <a className="hyper-link" onClick={() => window.open("https://www.google.com")}>Link</a>
         </>
@@ -69,9 +69,9 @@ const openPopupC = () => {
     const content = (
         <>
         <img className="portfolio-image-popupbox" src={C} alt="" />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>This repository is intended to showcase the variety of my work done throughout different courses at Santa Clara University.</p>
         <b>GitHub: </b>
-        <a className="hyper-link" onClick={() => window.open("https://www.google.com")}>Link</a>
+        <a className="hyper-link" onClick={() => window.open("https://github.com/sorenjmadsen/SCU-Coursework")}>Link</a>
         </>
     )
     PopupboxManager.open({content})
@@ -79,7 +79,7 @@ const openPopupC = () => {
         content,
         config: {
           titleBar: {
-            text: "Simple C Compiler",
+            text: "SCU Coursework",
           },
         },
     });
@@ -88,7 +88,7 @@ const openPopupC = () => {
 const popupConfigC = {
     titleBar : {
         enable: true,
-        text: "Simple C Compiler"
+        text: "SCU Coursework"
     },
     fadeIn: true,
     fadeInSpeed: 250
@@ -105,7 +105,7 @@ const Portfolio = () => {
                 <div className="image-box-wrapper row justify-content-center">
                     <PortfolioItem src={Jaws} alt="Senior design thesis..." onClick={openPopupJaws}/>
                     <PortfolioItem src={Fr} alt="Applied facial recognition..." onClick={openPopupFr}/>
-                    <PortfolioItem src={C} alt="Simple C compiler..." onClick={openPopupC}/>
+                    <PortfolioItem src={C} alt="SCU Coursework..." onClick={openPopupC}/>
                 </div>
             </div>
             <PopupboxContainer {...popupConfigJaws} />

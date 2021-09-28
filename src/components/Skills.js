@@ -18,6 +18,7 @@ const Skills = () => {
                                     <li>Python</li>
                                     <li>Java</li>
                                     <li>JavaScript</li>
+                                    <li>Matlab</li>
                                 </ul>
                             </div>
                         </div>
@@ -26,9 +27,9 @@ const Skills = () => {
                             <FontAwesomeIcon className="icon" icon={faPuzzlePiece} size="lg"/>
                                 <h3>Frameworks</h3>
                                 <ul>
-                                    <li>TensorFlow</li>
-                                    <li>Apache Spark</li>
-                                    <li>NumPy</li>
+                                    <li>TensorFlow, Keras</li>
+                                    <li>Pandas</li>
+                                    <li>Numpy</li>
                                     <li>React.js</li>
                                 </ul>
                             </div>
@@ -38,10 +39,10 @@ const Skills = () => {
                             <FontAwesomeIcon className="icon" icon={faWrench} size="lg"/>
                                 <h3>Tools</h3>
                                 <ul>
-                                    <li>Matlab</li>
+                                    <li>Postman API</li>
                                     <li>WireShark</li>
-                                    <li>Jupyter Notebook</li>
-                                    <li>Git</li>
+                                    <li>Python Notebooks</li>
+                                    <li>Git, Jenkins</li>
                                 </ul>
                             </div>
                         </div>
@@ -53,7 +54,7 @@ const Skills = () => {
                                     <li>Computer Networks</li>
                                     <li>Applied Cryptography</li>
                                     <li>Intro to ML</li>
-                                    <li>OO Programming</li>
+                                    <li>Computer Algorithms</li>
                                 </ul>
                             </div>
                         </div>

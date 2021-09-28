@@ -13,9 +13,8 @@ const AboutMe = () => {
                 </div>
                 <div className="col-lg-6 col-xm-12">
                     <h1 className="about-heading">About Me</h1>
-                    <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                    </p>
+                    <p>Hello, and welcome to my page! Here you’ll be able to see my own take on the digital portfolio. With sites like LinkedIn making it easy to create a boring, cookie cutter, profile page, I thought it would be much nicer to design one myself! </p>
+                    <p>As for me, my name is Soren (hopefully made clear already), and I’m currently a Software Engineer for Cisco working on the Enterprise Cloud Networking team to enhance the security of network controllers. Just before I took the job, I graduated from Santa Clara University with a B.S. in Computer Science and Engineering that has given me some key skills to thrive as a developer. While I’ve spent a lot of my time involved in cybersecurity, I am currently pursuing all things AI/ML. I’ve become obsessed with various forms of image and audio classification, and I see the breadth of this field as one large ocean into which I can’t help but dive deep. In my free time, I love to surf, play the guitar, free dive, spearfish, and enjoy nature! I hope to one day connect my work as a developer to something meaningful that helps the planet. 🌲</p>
                 </div>
             </div>
         </div>
