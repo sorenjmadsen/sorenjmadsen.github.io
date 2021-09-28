@@ -5,7 +5,7 @@ const AboutMe = () => {
     return (
         <div id="about" className="container py-5">
             <div className="row">
-                <div className="col-lg-6 col-xm-12">
+                <div className="col-lg-6 col-xm-12 img-col">
                     <div className="photo-wrap">
                         <img className="profile-img mb-3" src={profile} alt="Author photo"/>
                         

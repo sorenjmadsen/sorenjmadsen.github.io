@@ -8,7 +8,7 @@ const Header = () => {
                 <h1>MACHINE LEARNING AND SOFTWARE DEVELOPMENT</h1>
                 <Typed
                     className="typed-text"
-                    strings={["C/C++", "Python", "MATLAB", "Pytorch", "Apache Spark"]}
+                    strings={["C/C++", "Python", "MATLAB", "Tensorflow", "Pandas", "Numpy"]}
                     typeSpeed={40}
                     backSpeed={60}
                     loop={true}
