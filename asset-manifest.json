@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c6e9bbcc.chunk.css",
-    "main.js": "/static/js/main.a3af3d59.chunk.js",
-    "main.js.map": "/static/js/main.a3af3d59.chunk.js.map",
+    "main.js": "/static/js/main.11965f8b.chunk.js",
+    "main.js.map": "/static/js/main.11965f8b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3bb3b585.js",
     "runtime-main.js.map": "/static/js/runtime-main.3bb3b585.js.map",
     "static/css/2.aa07b0ce.chunk.css": "/static/css/2.aa07b0ce.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/App.css": "/static/media/dunes-tinted.6a8fbbd4.png",
     "static/media/face_recognition.bddc3c84.png": "/static/media/face_recognition.bddc3c84.png",
     "static/media/jaws.57c94806.png": "/static/media/jaws.57c94806.png",
-    "static/media/profile.8df972b4.jpeg": "/static/media/profile.8df972b4.jpeg",
+    "static/media/profile.bed47a88.png": "/static/media/profile.bed47a88.png",
     "static/media/simplec.a6295fe4.png": "/static/media/simplec.a6295fe4.png"
   },
   "entrypoints": [
@@ -25,6 +25,6 @@
     "static/css/2.aa07b0ce.chunk.css",
     "static/js/2.2e2da45d.chunk.js",
     "static/css/main.c6e9bbcc.chunk.css",
-    "static/js/main.a3af3d59.chunk.js"
+    "static/js/main.11965f8b.chunk.js"
   ]
 }
