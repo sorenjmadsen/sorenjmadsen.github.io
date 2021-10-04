@@ -54,7 +54,6 @@ const Skills = () => {
                                     <li>Computer Networks</li>
                                     <li>Applied Cryptography</li>
                                     <li>Intro to ML</li>
-                                    <li>Computer Algorithms</li>
                                 </ul>
                             </div>
                         </div>
